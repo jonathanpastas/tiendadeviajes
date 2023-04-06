@@ -18,7 +18,7 @@ public class Carrito {
 	
 			control = true;
 		}
-		//System.out.println(sql);
+		
 
 		return control;
 	}
@@ -78,7 +78,7 @@ public class Carrito {
 	
 			control = true;
 		}
-		//System.out.println(sql);
+		
 
 		return control;
 	}
