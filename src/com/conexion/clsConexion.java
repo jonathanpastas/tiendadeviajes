@@ -15,7 +15,7 @@ public class clsConexion {
 		super();
 		this.driver = "com.microsoft.sqlserver.jdbc.SQLServerDriver";
 		this.user = "sa";
-		this.pwd = "mariadomenica30";
+		this.pwd = "contrasenia";
 		this.cadena = "jdbc:sqlserver://localhost:1433;databaseName=TURISMO";
 		this.con = this.crearConexion();
 	}
