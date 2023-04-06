@@ -29,7 +29,7 @@
         <a class="nav-link" href="quienes_somos.jsp"> Quienes Somos </a>
       </li>
       <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle"  href="catalogo.jsp" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Ver Cat醠ogo </a>
+        <a class="nav-link dropdown-toggle"  href="catalogo.jsp" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"> Ver Cat谩logo </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
           <a class="dropdown-item" href="Costa.jsp">Costa Ecuatoriana</a>
           <a class="dropdown-item" href="RSierra.jsp">Sierra Ecuatoriana</a>
@@ -42,7 +42,7 @@
       
     </ul>
     <form class="form-inline my-2 my-lg-0" action="login.jsp">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Iniciar Sesi髇 </button>
+      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Iniciar Sesi贸n </button>
     </form>
   </div>
 </nav>
@@ -53,25 +53,17 @@
 <br>
 <div class="container">  
 <div class="card-group">
-  <div class="card">
 
-   <center> <img src="imagenes/kevin.jpeg" class="rounded float-center" width="100px" ></center>
-    <div class="card-body">
-      <h5 class="card-title">Kevin Andres Changoluisa Cuayal</h5>
-      <p class="card-text">Estudiante de Ingenieria en Ciencias de la Computaci髇</p>
-       <p class="card-text">Cuarto Nivel </p>
-      <p class="card-text"><small class="text-muted">Rol : Programaci髇 del Portal </small></p>
-      <p class="card-text"><small class="text-muted">Contacto : kchangoluisa@est.ups.edu.ec </small></p>
-    </div>
-  </div>
+
+   
   <div class="card">
    
    <center> <img src="imagenes/jonathan.PNG" class="rounded float-center" width="100px" class="img-circle"></center>
     <div class="card-body">
       <h5 class="card-title">Jonathan Sebastian Pastas Pastas </h5>
-      <p class="card-text">Estudiante de Ingenieria en Ciencias de la Computaci髇</p>
+      <p class="card-text">Estudiante de Ingenieria en Ciencias de la Computaci贸n</p>
        <p class="card-text">Cuarto Nivel </p>
-      <p class="card-text"><small class="text-muted">Rol : Programaci髇 del Portal </small></p>
+      <p class="card-text"><small class="text-muted">Rol : Programaci贸n del Portal </small></p>
       <p class="card-text"><small class="text-muted">Contacto : jpastas@est.ups.edu.ec </small></p>
     </div>
   </div>
@@ -80,9 +72,9 @@
    <center> <img src="imagenes/bitman.jpeg" class="rounded float-center" width="100px" class="img-circle"></center>
     <div class="card-body">
       <h5 class="card-title">Bitman Luciano Pozo Tocto</h5>
-      <p class="card-text">Estudiante de Ingenieria en Ciencias de la Computaci髇</p>
+      <p class="card-text">Estudiante de Ingenieria en Ciencias de la Computaci贸n</p>
        <p class="card-text">Cuarto Nivel </p>
-      <p class="card-text"><small class="text-muted">Rol : Programaci髇 del Portal </small></p>
+      <p class="card-text"><small class="text-muted">Rol : Programaci贸n del Portal </small></p>
       <p class="card-text"><small class="text-muted">Contacto : bpozot@est.ups.edu.ec </small></p>
     </div>
   </div>
