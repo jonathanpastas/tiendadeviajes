@@ -88,7 +88,7 @@ public class Carrito {
 	public String confirmarCarrito(String cedula) {
 		prefactura = "<table border='3' align='center'  bordercolor='#76C9AB' bgcolor='#C4EFDF'><tr><th>TOTAL</th></tr>";
 		String sql = "select sum(Valor_Pagado) precio from boleto where cedula="+cedula;
-		//System.out.println(sql);
+		
 		try {
 			rs = c.Consulta(sql);
 			while (rs.next()) {
