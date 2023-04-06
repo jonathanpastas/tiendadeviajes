@@ -17,10 +17,10 @@ private String claveA="";
 		try {
 			while(rs.next()) {
 					login=true;
-					infoUser[0]=rs.getString(1);   //cedula
-					infoUser[1]=rs.getString(2);   //nombre
-					infoUser[2]=rs.getString(7);  //id_perfil
-					infoUser[3]=rs.getString(5);  //correo_electronico
+					infoUser[0]=rs.getString(1);   
+					infoUser[1]=rs.getString(2);   
+					infoUser[2]=rs.getString(7);  
+					infoUser[3]=rs.getString(5);  
 		
 			}
 			
@@ -89,7 +89,7 @@ public boolean CambioContrasena(String nueva_clave,String user) {
 	
 	try {
 		
-		//sql="update usuario set clave_us= '"+nueva_clave+"' where correo_electronico='"+user+"'";
+		
 		sql="update usuario set clave_us='"+nueva_clave+"' where cedula='"+user+"'";
 		cn.Ejecutar(sql);
 		estado=true;
