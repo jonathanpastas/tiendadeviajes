@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+#textproduc{
+	color: #000000;
+	text-align: center;
+}
+
+#text1,#text2,#text3,#text4,#text5{
+	color: #000000;
+	text-align: justify;
+}

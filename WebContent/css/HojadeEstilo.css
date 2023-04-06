@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+body{
+	font-family:Helvetica,Futura,Arial,Verdana,sans-serif;
+}
+#Titulo{
+	font: oblique bold 120% cursive;
+	color:#000000;
+	font-size:50pt;
+	
+}
+
+#titulo1,#titulo2,#titulo3,#titulo4,#titulo5{
+	font: oblique bold 120% cursive;
+	color:#000000;
+	font-size:15pt;
+	text-align:center;
+	
+}
+#carro{
+	width:45px;
+	height:45px;
+}

@@ -1,0 +1,58 @@
+@charset "ISO-8859-1";
+
+body{
+	font-family:Helvetica,Futura,Arial,Verdana,sans-serif;
+}
+#Titulo{
+	font: oblique bold 120% cursive;
+	color:#000000;
+	font-size:50pt;
+	
+}
+
+#titulo1,#titulo2,#titulo3,#titulo4,#titulo5{
+	font: oblique bold 120% cursive;
+	color:#000000;
+	font-size:15pt;
+	text-align:center;
+	
+}
+#carro{
+	width:50px;
+	height:50px;
+}
+
+#LogoEmpresa{
+	width:275px;
+	height:200px;
+}
+
+#LogoCuerpo{
+	width:525px;
+	height:400px;
+}
+
+#Quienes_somos,#Vision,#Mision,#Administra,#Mod{
+	font: oblique bold 120% cursive;
+	color:#000000;
+	font-size:18pt;
+	text-align:center;
+}
+
+#Iniciar_Sesion{
+	font: oblique bold 120% cursive;
+	color:#000000;
+	font-size:18pt;
+}
+
+#Parrafo{
+	text-align:justify;
+}
+
+#t1{
+	
+	color:#000000;
+	font-size:12pt;	
+	
+}
+

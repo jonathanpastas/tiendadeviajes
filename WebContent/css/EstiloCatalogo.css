@@ -1,0 +1,62 @@
+@charset "ISO-8859-1";
+
+
+
+#titulo{
+	color: #000000;
+}
+
+#titulo_base{
+	color: #000000;
+	font-size: 25pt;
+	text-align: center;
+}
+
+#Contenido{
+	color: #000000;
+	text-align: justify;
+	font-size: 12pt;
+}
+
+#textCosta{
+	cursor: pointer;
+	width:auto;
+	height:250px;
+	margin: 0px ;
+	background: url(../imagenes/COSTA.jpg);
+
+	
+	
+}
+
+#textSierra{
+	width:auto;
+	height:250px;
+	margin: 0px auto;
+	background: url(../imagenes/SIERRA.jpg);
+
+	
+}
+
+#textAmazonia{
+	width:auto;
+	height:250px;
+	margin: 0px;
+	background: url(../imagenes/AMAZONIA.jpg);
+
+}
+
+#textInsular{
+	width:750px;
+	height:200px;
+	margin: 0px auto;
+	background: url(../imagenes/INSULAR.jpg);
+
+	
+}
+
+#encabezado_regiones{
+	color: #000000;
+	font-size: 15pt;
+	text-align: center;
+}

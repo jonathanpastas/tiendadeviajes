@@ -1,0 +1,29 @@
+@charset "ISO-8859-1";
+
+
+
+#enca_costa{
+	font-size: 14pt;
+	text-align: center;
+	font: oblique bold 120% cursive;
+}
+
+#textNuestros{
+	color: #000000;
+	text-align: center;
+	font: oblique bold 120% cursive;
+}
+#intro_costa{
+	color: #000000;
+	text-align: justify;
+}
+
+#destino1,#destino2,#destino3,#destino4,#destino5{
+	text-align: justify;
+}
+
+#enca_cos{
+	font-size: 14pt;
+	text-align: right;
+	font: oblique bold 120% cursive;
+}
